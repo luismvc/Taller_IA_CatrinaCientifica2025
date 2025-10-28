@@ -1,6 +1,6 @@
 # 📘 Cómo entrenar a tu robot: Un taller de introducción a la IA 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luismvc/Taller_IA_CatrinaCientifica2025/blob/main/intro_taller.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luismvc/Taller_IA_CatrinaCientifica2025/blob/main/Taller_IA_CatrinaCientifica2025.ipynb)
 
 
 ## 🎯 Objetivo
