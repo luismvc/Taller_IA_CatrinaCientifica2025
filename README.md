@@ -76,3 +76,8 @@ Introducir a los participantes en la temática de aprendizaje profundo (_Deep-Le
 - Explicaciones teóricas.
 - Ejercicios prácticos en Colab/Jupyter Notebook.
 - Proyecto aplicado.
+
+## 📘  Notebooks
+
+- Nootebook del taller (sin soluciones) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luismvc/Taller_IA_CatrinaCientifica2025/blob/main/Taller_IA_CatrinaCientifica2025.ipynb)
+- Nootebook del taller (con soluciones) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luismvc/Taller_IA_CatrinaCientifica2025/blob/main/Taller_IA_CatrinaCientifica2025_(soluciones).ipynb)
